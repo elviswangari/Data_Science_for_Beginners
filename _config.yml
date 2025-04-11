@@ -1,0 +1,9 @@
+title: Data Science for Beginners
+description: A comprehensive guide to getting started with Data Science
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
