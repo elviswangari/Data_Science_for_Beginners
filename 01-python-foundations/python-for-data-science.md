@@ -1,6 +1,6 @@
 # Python Fundamentals
 
-[⬅️ Back to Table of Contents](../README.md) | [Next: Jupyter Notebooks ➡️](jupyter-notebooks.md) | [↩️ Back](../README.md)
+[⬅️ Back to Table of Contents](../README.md) | [Next: Jupyter Notebooks ➡️](jupyter-notebooks.md)
 
 ## Learning Objectives
 
@@ -311,6 +311,6 @@ def create_phone_book():
 
 ## Navigation
 
-[⬅️ Back to Table of Contents](../README.md) | [Next: Jupyter Notebooks ➡️](jupyter-notebooks.md) | [↩️ Back](../README.md)
+[⬅️ Back to Table of Contents](../README.md) | [Next: Jupyter Notebooks ➡️](jupyter-notebooks.md)
 
 [🔝 Back to Top](#python-fundamentals)

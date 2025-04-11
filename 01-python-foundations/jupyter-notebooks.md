@@ -1,6 +1,6 @@
 # Jupyter Notebooks
 
-[⬅️ Previous: Python Fundamentals](python-for-data-science.md) | [Next: NumPy Guide ➡️](../02-data-manipulation/numpy-guide.md) | [↩️ Back](../README.md)
+[⬅️ Previous: Python Fundamentals](python-for-data-science.md) | [Next: NumPy Guide ➡️](../02-data-manipulation/numpy-guide.md)
 
 # Jupyter Notebooks for Data Science
 
@@ -228,6 +228,6 @@ def plot_distribution(column):
 
 ## Navigation
 
-[⬅️ Previous: Python Fundamentals](python-for-data-science.md) | [Next: NumPy Guide ➡️](../02-data-manipulation/numpy-guide.md) | [↩️ Back](../README.md)
+[⬅️ Previous: Python Fundamentals](python-for-data-science.md) | [Next: NumPy Guide ➡️](../02-data-manipulation/numpy-guide.md)
 
 [🔝 Back to Top](#jupyter-notebooks)
