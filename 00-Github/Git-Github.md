@@ -1,5 +1,7 @@
 # Introduction to Git and GitHub for Beginners
 
+[⬅️ Previous: Model Evaluation](../04-machine-learning/model-evaluation.md) | [Next: Databases ➡️](../05-Databases/Databases.md)
+
 ## Learning Objectives
 
 By the end of this session, you will:
@@ -215,3 +217,11 @@ Before starting, make sure you have the following:
 
 - **Recap**: We’ve covered how to clone a repository, make changes, and push them to GitHub, as well as how to create a repository locally and link it to GitHub.
 - **Q&A**: Open session for any questions or clarification.
+
+---
+
+## Navigation
+
+[⬅️ Previous: Model Evaluation](../04-machine-learning/model-evaluation.md) | [Next: Databases ➡️](../05-Databases/Databases.md)
+
+[🔝 Back to Top](#introduction-to-git-and-github-for-beginners)

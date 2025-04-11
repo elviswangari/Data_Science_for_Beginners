@@ -1,5 +1,7 @@
 # Introduction to Databases
 
+[⬅️ Previous: Git and GitHub](../00-Github/Git-Github.md) | [Back to Table of Contents ➡️](../README.md)
+
 ## What is a Database?
 
 - A database is a collection of data that is organized and stored in a way that can be easily accessed, managed, and updated.
@@ -128,3 +130,11 @@ Relational databases typically support four types of languages within SQL, each 
     ```sql
     SELECT * FROM students;
     ```
+
+---
+
+## Navigation
+
+[⬅️ Previous: Git and GitHub](../00-Github/Git-Github.md) | [Back to Table of Contents ➡️](../README.md)
+
+[🔝 Back to Top](#introduction-to-databases)
